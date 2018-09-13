@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasts on krejac&#39;s notes</title>
+    <link>https://krejac.github.com/tags/podcasts/</link>
+    <description>Recent content in Podcasts on krejac&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Sep 2018 12:47:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://krejac.github.com/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security Oriented Podcasts</title>
+      <link>https://krejac.github.com/post/podcasts/</link>
+      <pubDate>Thu, 13 Sep 2018 12:47:01 +0200</pubDate>
+      
+      <guid>https://krejac.github.com/post/podcasts/</guid>
+      <description>The security oriented podcasts I listen to regularly are:
+ SANS StormCasts - the quick no-nonsense daily fix.
+ Smashing Security - the familiar weekly chat about cybercrime, hacking, and online privacy. Malicious Life - Listen to tales from the annals of cybersecurity and cyberwar from time to time.  Also worth mentioning (but not yet regular on my list):
+ Risky Business Cyber Security Sauna  </description>
+    </item>
+    
+  </channel>
+</rss>
