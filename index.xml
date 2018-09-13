@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>krejac&#39;s notes</title>
+    <link>https://krejac.github.com/</link>
+    <description>Recent content on krejac&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Sep 2018 12:47:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://krejac.github.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security Oriented Podcasts</title>
+      <link>https://krejac.github.com/post/podcasts/</link>
+      <pubDate>Thu, 13 Sep 2018 12:47:01 +0200</pubDate>
+      
+      <guid>https://krejac.github.com/post/podcasts/</guid>
+      <description>The security oriented podcasts I listen to regularly are:
+ SANS StormCasts - the quick no-nonsense daily fix.
+ Smashing Security - the familiar weekly chat about cybercrime, hacking, and online privacy. Malicious Life - Listen to tales from the annals of cybersecurity and cyberwar from time to time.  Also worth mentioning (but not yet regular on my list):
+ Risky Business Cyber Security Sauna  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://krejac.github.com/about/</link>
+      <pubDate>Thu, 13 Sep 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://krejac.github.com/about/</guid>
+      <description>Hi there My name is Kresten Jacobsen and I&amp;rsquo;m the author of this site. I setup this site to help me understand things as I learn and to remember them later.
+I have had an interest in cybersecurity ever since I studied computer science, but only recently converted to full time IT security specialist. I have a lot to learn, so forgive me for saying some complete bull**** from time to time.</description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://krejac.github.com/post/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>https://krejac.github.com/post/hello/</guid>
+      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip;
+But that&amp;rsquo;s a slippery slope.
+You&amp;rsquo;re only in my head.
+We have to remember that&amp;hellip;
+Shit.
+It&amp;rsquo;s actually happened.
+I&amp;rsquo;m talking to an imaginary person.
+— Mr. Robot S01E01
+ </description>
+    </item>
+    
+  </channel>
+</rss>
