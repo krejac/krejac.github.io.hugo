@@ -134,11 +134,13 @@ Hugo Hugo was super easy to install with apt on Linux Mint and brew on macOS tak
 
 <h2 id="hugo">Hugo</h2>
 
-<p>Hugo was super easy to install with apt on Linux Mint and brew on macOS taking care of any potential dependencies (<code>apt install hugo</code> and <code>brew install hugo</code> respectively). That is far from the case with other static site generators. Theming worked well too. I cloned directly into theme-dir (<em>note-to-self</em>: you don&rsquo;t <em>need</em> to use the name of the git repo as folder name). I did have some trouble being able to generate content (site worked fine otherwise) and I think that may be because I mixed up [front matter formats]((<a href="https://gohugo.io/content-management/front-matter/#front-matter-formats).[^1">https://gohugo.io/content-management/front-matter/#front-matter-formats).[^1</a>]</p>
+<p>Hugo was super easy to install with apt on Linux Mint and brew on macOS taking care of any potential dependencies (<code>apt install hugo</code> and <code>brew install hugo</code> respectively). That is far from the case with other static site generators. Theming worked well too. I cloned directly into theme-dir (<em>note-to-self</em>: you don&rsquo;t <em>need</em> to use the name of the git repo as folder name). I did have some trouble being able to generate content (site worked fine otherwise) and I think that may be because I mixed up <a href="https://gohugo.io/content-management/front-matter/#front-matter-formats">front matter formats</a>.<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup></p>
 
 <h2 id="github-hosting">GitHub hosting</h2>
 
-<p>So GitHub hosting is not new to me. I actually moved an old Jekyll site out of <myname>.github.io (User Page) but then serving from <code>docs/</code> no longer worked.<sup class="footnote-ref" id="fnref:2"><a href="#fn:2">1</a></sup> So I had to find a workaround. Enter <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-user-or-organization-pages">Hugo docs</a>. The gist of it is to create a submodule within a repository, that the generated contents is put in, and that submodule is the repo from your GitHub User Page. Sounds a bit cumbersome, but it works pretty darn well.</p>
+<p>So GitHub hosting is not new to me. I actually moved an old Jekyll site out of <myname>.github.io (User Page) but then serving from <code>docs/</code> no longer worked.<sup class="footnote-ref" id="fnref:2"><a href="#fn:2">2</a></sup> So I had to find a workaround. Enter <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-user-or-organization-pages">Hugo docs</a>. The gist of it is to create a submodule within a repository, that the generated contents is put in, and that submodule is the repo from your GitHub User Page. Sounds a bit cumbersome, but it works pretty darn well.</p>
+
+<p>But even though Hugo&rsquo;s docs are really good I needed to <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules">read up on submodules elsewhere</a> to get it to work.</p>
 
 <h2 id="git">Git</h2>
 
@@ -150,6 +152,8 @@ Hugo Hugo was super easy to install with apt on Linux Mint and brew on macOS tak
 <hr />
 
 <ol>
+<li id="fn:1">I really ought figure out what the problem was, but it is working now and I would rather spend time on something else&hellip;
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
 <li id="fn:2">I guess Jekyll have a special place at GitHub.
  <a class="footnote-return" href="#fnref:2"><sup>[return]</sup></a></li>
 </ol>
