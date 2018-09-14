@@ -6,17 +6,27 @@
     <description>Recent content on krejac&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Sep 2018 12:47:01 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Sep 2018 08:13:53 +0200</lastBuildDate>
     
 	<atom:link href="https://krejac.github.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Blog Setup</title>
+      <link>https://krejac.github.com/post/2018-09-14-blog-setup/</link>
+      <pubDate>Fri, 14 Sep 2018 08:13:53 +0200</pubDate>
+      
+      <guid>https://krejac.github.com/post/2018-09-14-blog-setup/</guid>
+      <description>I love setting up something new as I really appreciate the opportunity to &amp;lsquo;nerd out&amp;rsquo; and try out new stuff and learn. I have previousely dabbled with different types of static site generators, Jekyll, Octopress, Bashblog and Chisel to name a few. But this time I wanted to try out Hugo.
+Hugo Hugo was super easy to install with apt on Linux Mint and brew on macOS taking care of any potential dependencies (apt install hugo and brew install hugo respectively).</description>
+    </item>
+    
+    <item>
       <title>Security Oriented Podcasts</title>
-      <link>https://krejac.github.com/post/podcasts/</link>
+      <link>https://krejac.github.com/post/2018-09-13-podcasts/</link>
       <pubDate>Thu, 13 Sep 2018 12:47:01 +0200</pubDate>
       
-      <guid>https://krejac.github.com/post/podcasts/</guid>
+      <guid>https://krejac.github.com/post/2018-09-13-podcasts/</guid>
       <description>The security oriented podcasts I listen to regularly are:
  SANS StormCasts - the quick no-nonsense daily fix.
  Smashing Security - the familiar weekly chat about cybercrime, hacking, and online privacy. Malicious Life - Listen to tales from the annals of cybersecurity and cyberwar from time to time.  Also worth mentioning (but not yet regular on my list):
@@ -35,10 +45,10 @@ I have had an interest in cybersecurity ever since I studied computer science, b
     
     <item>
       <title>Hello Friend</title>
-      <link>https://krejac.github.com/post/hello/</link>
+      <link>https://krejac.github.com/post/1986-09-17-hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>https://krejac.github.com/post/hello/</guid>
+      <guid>https://krejac.github.com/post/1986-09-17-hello/</guid>
       <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip;
 But that&amp;rsquo;s a slippery slope.
 You&amp;rsquo;re only in my head.
