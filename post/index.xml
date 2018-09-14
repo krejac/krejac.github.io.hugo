@@ -6,10 +6,24 @@
     <description>Recent content in Posts on krejac&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Sep 2018 08:13:53 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Sep 2018 15:22:46 +0200</lastBuildDate>
     
 	<atom:link href="https://krejac.github.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Search For Exploits</title>
+      <link>https://krejac.github.com/post/2018-09-14-search-exploits/</link>
+      <pubDate>Fri, 14 Sep 2018 15:22:46 +0200</pubDate>
+      
+      <guid>https://krejac.github.com/post/2018-09-14-search-exploits/</guid>
+      <description>When doing pentesting you&amp;rsquo;re constantly looking for exploits. This is where I find mine.
+ Shodan - Meta search, searches both exploitdb and metasploit (maybe more?).
+ The Exploit Database - The classic from the makers of Kali Linux.1
+ Vulnerability &amp;amp; Exploit Database by Rapid7 the makers of Metasploit.
+ SPLOITUS - A newcomer to the exploit scene, but worth keeping an eye on.
+   Proven track record, but the reCAPTCHA is a bitch.</description>
+    </item>
     
     <item>
       <title>Blog Setup</title>

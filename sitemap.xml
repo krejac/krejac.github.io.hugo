@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://krejac.github.com/post/2018-09-14-search-exploits/</loc>
+    <lastmod>2018-09-14T15:22:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krejac.github.com/post/2018-09-14-blog-setup/</loc>
     <lastmod>2018-09-14T08:13:53+02:00</lastmod>
   </url>
@@ -24,6 +29,12 @@
   
   <url>
     <loc>https://krejac.github.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://krejac.github.com/tags/exploit/</loc>
+    <lastmod>2018-09-14T15:22:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,6 +63,12 @@
   </url>
   
   <url>
+    <loc>https://krejac.github.com/tags/pentest/</loc>
+    <lastmod>2018-09-14T15:22:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://krejac.github.com/tags/podcasts/</loc>
     <lastmod>2018-09-13T12:47:01+02:00</lastmod>
     <priority>0</priority>
@@ -59,13 +76,13 @@
   
   <url>
     <loc>https://krejac.github.com/post/</loc>
-    <lastmod>2018-09-14T08:13:53+02:00</lastmod>
+    <lastmod>2018-09-14T15:22:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://krejac.github.com/tags/</loc>
-    <lastmod>2018-09-14T08:13:53+02:00</lastmod>
+    <lastmod>2018-09-14T15:22:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -77,7 +94,7 @@
   
   <url>
     <loc>https://krejac.github.com/</loc>
-    <lastmod>2018-09-14T08:13:53+02:00</lastmod>
+    <lastmod>2018-09-14T15:22:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
