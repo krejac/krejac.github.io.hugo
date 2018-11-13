@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study on krejac&#39;s notes</title>
+    <link>https://krejac.github.com/tags/study/</link>
+    <description>Recent content in Study on krejac&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2018 10:20:52 +0100</lastBuildDate>
+    
+	<atom:link href="https://krejac.github.com/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Studying Hard...</title>
+      <link>https://krejac.github.com/post/2018-11-13-studying-hard/</link>
+      <pubDate>Tue, 13 Nov 2018 10:20:52 +0100</pubDate>
+      
+      <guid>https://krejac.github.com/post/2018-11-13-studying-hard/</guid>
+      <description>So I&amp;rsquo;ve signed up for a Certified Ethical Hacker (CEH) and I&amp;rsquo;d like to go through the course material before taking the course. But between work and family, studying tend to loose. I don&amp;rsquo;t really know what to do about it other than to read a bit here and there on the train going to and from work (if I can keep my eyes open) and a bit before I go to sleep at night.</description>
+    </item>
+    
+  </channel>
+</rss>

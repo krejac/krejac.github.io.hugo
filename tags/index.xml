@@ -6,10 +6,19 @@
     <description>Recent content in Tags on krejac&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Sep 2018 15:22:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Nov 2018 10:20:52 +0100</lastBuildDate>
     
 	<atom:link href="https://krejac.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ceh</title>
+      <link>https://krejac.github.com/tags/ceh/</link>
+      <pubDate>Tue, 13 Nov 2018 10:20:52 +0100</pubDate>
+      
+      <guid>https://krejac.github.com/tags/ceh/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploit</title>
@@ -71,6 +80,15 @@
       <pubDate>Thu, 13 Sep 2018 12:47:01 +0200</pubDate>
       
       <guid>https://krejac.github.com/tags/podcasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study</title>
+      <link>https://krejac.github.com/tags/study/</link>
+      <pubDate>Tue, 13 Nov 2018 10:20:52 +0100</pubDate>
+      
+      <guid>https://krejac.github.com/tags/study/</guid>
       <description></description>
     </item>
     
