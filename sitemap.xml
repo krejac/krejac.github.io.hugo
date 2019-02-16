@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://krejac.github.com/post/2019-02-16-algo/</loc>
+    <lastmod>2019-02-16T22:02:28+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krejac.github.com/post/2018-11-13-studying-hard/</loc>
     <lastmod>2018-11-13T10:20:52+01:00</lastmod>
   </url>
@@ -87,7 +92,13 @@
   
   <url>
     <loc>https://krejac.github.com/post/</loc>
-    <lastmod>2018-11-13T10:20:52+01:00</lastmod>
+    <lastmod>2019-02-16T22:02:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://krejac.github.com/tags/privacy/</loc>
+    <lastmod>2019-02-16T22:02:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -110,8 +121,14 @@
   </url>
   
   <url>
+    <loc>https://krejac.github.com/tags/vpn/</loc>
+    <lastmod>2019-02-16T22:02:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://krejac.github.com/</loc>
-    <lastmod>2018-11-13T10:20:52+01:00</lastmod>
+    <lastmod>2019-02-16T22:02:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   

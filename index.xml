@@ -6,10 +6,20 @@
     <description>Recent content on krejac&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Nov 2018 10:20:52 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Feb 2019 22:02:28 +0100</lastBuildDate>
     
 	<atom:link href="https://krejac.github.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algo</title>
+      <link>https://krejac.github.com/post/2019-02-16-algo/</link>
+      <pubDate>Sat, 16 Feb 2019 22:02:28 +0100</pubDate>
+      
+      <guid>https://krejac.github.com/post/2019-02-16-algo/</guid>
+      <description>So I just tried out AlgoVPN by Trail of Bits. It worked a lot better than both my personal VPN and my coporate VPN. Trail of Bits describes Algo as follows:
+ &amp;ldquo;Algo VPN is a set of Ansible scripts that simplify the setup of a personal IPSEC and Wireguard VPN. It uses the most secure defaults available, works with common cloud providers, and does not require client software on most devices.</description>
+    </item>
     
     <item>
       <title>Studying Hard...</title>
